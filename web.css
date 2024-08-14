@@ -1,0 +1,19 @@
+*{
+   font-family: "Roboto", sans-serif;
+}
+
+
+.banner{
+    
+    background-image: url(./img/web-main-background.jpg);
+    padding: 80px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    
+   
+}
+.skillshead{
+    padding: 50px 0px;
+}
+
