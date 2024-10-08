@@ -1,19 +1,30 @@
 *{
-   font-family: "Roboto", sans-serif;
-}
-
-
-.banner{
-    
-    background-image: url(./img/web-main-background.jpg);
-    padding: 80px; 
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: black;
-    
-   
-}
-.skillshead{
-    padding: 50px 0px;
-}
-
+    font-family: "Roboto", sans-serif;
+ }
+ .banner{
+     background-image: url(./img/web-main-background.jpg);
+     padding: 80px; 
+     background-size: cover;
+     background-repeat: no-repeat;
+     color: black;
+     opacity: .7;
+ }
+ #project{
+     margin-top: 50px;
+ }
+ .table-project{
+     padding-bottom: 50px;
+ }
+ .taple-outline{
+     width: 50%;
+     height: 130px;
+     border: 1px solid;
+ }
+ tr, th, td {
+     padding-left: 10px;
+     border: 1px solid;
+ }
+ 
+ .skillshead{
+     padding: 50px 0px;
+ }
